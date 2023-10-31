@@ -1,6 +1,6 @@
 {
   "name": "@karimdev/remix-auth-google",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "scripts": {
